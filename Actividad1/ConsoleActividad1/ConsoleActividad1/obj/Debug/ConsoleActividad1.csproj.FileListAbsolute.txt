@@ -1,7 +1,0 @@
-C:\Users\david\Documents\LengProgramacion II\ConsoleActividad1\ConsoleActividad1\obj\Debug\ConsoleActividad1.csproj.AssemblyReference.cache
-C:\Users\david\Documents\LengProgramacion II\ConsoleActividad1\ConsoleActividad1\obj\Debug\ConsoleActividad1.csproj.CoreCompileInputs.cache
-C:\Users\david\Documents\LengProgramacion II\ConsoleActividad1\ConsoleActividad1\bin\Debug\ConsoleActividad1.exe.config
-C:\Users\david\Documents\LengProgramacion II\ConsoleActividad1\ConsoleActividad1\bin\Debug\ConsoleActividad1.exe
-C:\Users\david\Documents\LengProgramacion II\ConsoleActividad1\ConsoleActividad1\bin\Debug\ConsoleActividad1.pdb
-C:\Users\david\Documents\LengProgramacion II\ConsoleActividad1\ConsoleActividad1\obj\Debug\ConsoleActividad1.exe
-C:\Users\david\Documents\LengProgramacion II\ConsoleActividad1\ConsoleActividad1\obj\Debug\ConsoleActividad1.pdb
